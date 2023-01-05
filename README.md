@@ -1,8 +1,7 @@
-# dataquest-step2
+# dataquest-2- Data Analysis and Visualization
 
-Dataquest Step 2 consits of 3 chapters
+Dataquest Part 2 consits of 3 chapters
 
-Pandas and Numpy Fundamentals
-Datavisualization fundamentals
-Storytelling Data visualization and Information design
-Here I will upload three projects related to these chapter
+1) Pandas and Numpy Fundamentals
+2) Datavisualization fundamentals
+3) Storytelling Data visualization and Information design
